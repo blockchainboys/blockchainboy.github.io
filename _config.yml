@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Future Blockchain"
-email: mypropertydeal@gmail.com
-description: "Blockchain Journal by the Blockchain Boy>>>Copyright@2013"
+email: zadebigai@gmail.com
+description: "Blockchain Journal by the Blockchain Boy >>>Copyright@2013"
 baseurl: 
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  blockchainboys
